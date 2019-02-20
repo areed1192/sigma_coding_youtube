@@ -32,5 +32,4 @@
 
 * **Data Science** Make smarter algorithms that leverage different models.
 
-To learn more about configuration, usage and features of The Lounge, take a look at [the website](https://thelounge.chat).
-The Lounge is the official and community-managed fork of [Shout](https://github.com/erming/shout), by [Mattias Erming](https://github.com/erming).
+To learn more about Sigma Coding check out my [website](https://www.sigma-coding.com/). This repository is managed by [Alex Reed](https://www.linkedin.com/in/alex-reed/) if you have any questions please reach out.
