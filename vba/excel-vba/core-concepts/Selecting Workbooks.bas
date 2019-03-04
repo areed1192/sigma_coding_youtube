@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub SelectingWorkbooks()
 
     ' The application object has a collection that houses all of our workbooks, its called "WORKBOOKS"
@@ -42,7 +41,6 @@ Sub SelectingWorkbooks()
     
 
 End Sub
-
 
 Sub SelectingWorkbookMethods()
 
