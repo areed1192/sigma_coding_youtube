@@ -45,7 +45,7 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
 
-***
+(empty line)
 <p align="center"></p>
 <table>
 <thead>
@@ -74,7 +74,8 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 </tbody>
 </table>
 <p></p>
-***
+
+(empty line)
 
 ## Python Tutorials
 
