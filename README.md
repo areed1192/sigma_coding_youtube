@@ -45,6 +45,33 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
 
+<table>
+<thead>
+<tr>
+<th>Link</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Excel VBA</td>
+<td>This is the link to the Excel Object model documentation.</td>
+</tr>
+<tr>
+<td>PowerPoint VBA</td>
+<td>This is the link to the PowerPoint Object model documentation.</td>
+</tr>
+<tr>
+<td>Word VBA</td>
+<td>This is the link to the Word Object model documentation.</td>
+</tr>
+<tr>
+<td>Outlook VBA</td>
+<td>This is the link to the Outlook Object model documentation.</td>
+</tr>
+</tbody>
+</table>
+
 ## Python Tutorials
 
 Python is a powerful program language that is easy to use and learn, many who want to learn programming start with Python. In my tutorials, I am currently focusing on how to use Python the VBA object model. This opens up a whole host of new capabilities that we can now take advantage of.
@@ -53,45 +80,3 @@ Python is a powerful program language that is easy to use and learn, many who wa
 
 * **[Python APIs](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-apis)** APIs are an easy and standardized way to access information across different companies. Let's explore how to use popular APIs to capture valuable pieces of data.
 
-<table>
-<thead>
-<tr>
-<th>Component</th>
-<th>Function</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Q# language and compiler</td>
-<td>Q# is a domain-specific programming language used for expressing quantum algorithms. It is used for writing sub-programs that execute on an adjunct quantum processor under the control of a classical host program and computer.</td>
-</tr>
-<tr>
-<td>Q# library</td>
-<td>The library contains operations and functions that support both the classical language control requirement and the Q# quantum algorithms.</td>
-</tr>
-<tr>
-<td>Local quantum machine simulator</td>
-<td>A full state vector simulator optimized for accurate vector simulation and speed.</td>
-</tr>
-<tr>
-<td>Quantum computer trace simulator</td>
-<td>The trace simulator does not simulate the quantum environment like the local quantum simulator. It is used to estimate the resources required to execute a quantum program and also allow faster debugging of the non-Q# control code.</td>
-</tr>
-<tr>
-<td>Resource Estimator</td>
-<td>The resource estimator estimates the resources required to run a given instance of a Q# operation on a quantum computer.</td>
-</tr>
-<tr>
-<td>Visual Studio extension</td>
-<td>This extension contains templates for Q# files and projects as well as syntax highlighting.</td>
-</tr>
-<tr>
-<td>Visual Studio Code extension</td>
-<td>This extension contains syntax highlighting and code snippets for Q#.</td>
-</tr>
-<tr>
-<td><code>qsharp</code> for Python</td>
-<td>The <code>qsharp</code> package for Python makes it easy to simulate Q# operations and functions from within Python.</td>
-</tr>
-</tbody>
-</table>
