@@ -1,4 +1,3 @@
-Attribute VB_Name = "Practice"
 Option Explicit
 
 Sub CopyTableToWord_Single()
@@ -107,16 +106,3 @@ Sub CopyTableToWord_Multi()
     WrdApp.Selection.GoTo What:=wdGoToPage, which:=wdGoToFirst
 
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
