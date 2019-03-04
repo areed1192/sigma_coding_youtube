@@ -37,8 +37,10 @@ To learn more about Sigma Coding check out my [website](https://www.sigma-coding
 
 ## VBA Tutorial
 
-* **[Excel VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/excel-vba)** Explore the core concepts neeed to master Excel VBA. Also, take your knowledge further by exploring different object libraries.
+VBA is the go to tool to help automate Office applications and take reptitive tasks and turn them into simple macros that save time and effort. The VBA object model is used across multiple applications and contains 100s of objects that can be controlled and manipulated. This section was intended for users who want to take a deep dive into VBA and explore not just Excel VBA but the other Office Applications. At this point, we currently have code for the following applications.
 
-* **[Word VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/word-vba)** Explore how to manipulate and modify Word documents using VBA.
+* **[Excel VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/excel-vba)** Explore the core concepts neeed to master Excel VBA. Along with this, take a deep dive into the different object heiarchies like Ranges, Pivot Tables, and Power Pivot.
 
-* **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** Take control of your PowerPoint presentations by writing VBA code to help expidite the process of creating presentations.
+* **[Word VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/word-vba)** Explore how to manipulate and modify Word documents using VBA. Word documents are great for documenting a wide arrange of information, make VBA your friend and see how to format these documents uing VBA.
+
+* **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
