@@ -18,7 +18,6 @@ Sub PrintPrivateVariable()
 
 End Sub
 
-
 Sub CallPrivateVariable()
     
     Call PrintPrivateVariable
