@@ -35,7 +35,7 @@
 To learn more about Sigma Coding check out my [website](https://www.sigma-coding.com/). This repository is managed by [Alex Reed](https://www.linkedin.com/in/alex-reed/) if you have any questions please reach out.
 
 
-## VBA Tutorial
+## VBA Tutorials
 
 VBA is the go to tool to help automate Office applications and take reptitive tasks and turn them into simple macros that save time and effort. The VBA object model is used across multiple applications and contains 100s of objects that can be controlled and manipulated. This section was intended for users who want to take a deep dive into VBA and explore not just Excel VBA but the other Office Applications. At this point, we currently have code for the following applications.
 
@@ -45,7 +45,7 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
 
-## Python Tutorial
+## Python Tutorials
 
 Python is a powerful program language that is easy to use and learn, many who want to learn programming start with Python. In my tutorials, I am currently focusing on how to use Python the VBA object model. This opens up a whole host of new capabilities that we can now take advantage of.
 
