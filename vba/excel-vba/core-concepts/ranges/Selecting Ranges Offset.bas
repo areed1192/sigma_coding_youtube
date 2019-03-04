@@ -75,5 +75,3 @@ Sub SelectIntersection()
 Application.Intersect(Range("Test"), Range("Sample")).Select
 
 End Sub
-
-
