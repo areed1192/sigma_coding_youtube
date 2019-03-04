@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module1"
-
 Sub CreatePivotTable()
 
 'Declare Variables
@@ -7,7 +5,6 @@ Dim PvtCache As PivotCache
 Dim PvtTbl As PivotTable
 Dim PvtFld As PivotField
 Dim DataTbl As ListObject
-
 
 'Delete Pivot Table
 ActiveSheet.PivotTables("MyNewPivotTable").TableRange2.Delete
@@ -55,27 +52,12 @@ With PvtTbl.PivotFields("Product")
     .Position = 1
 End With
 
+'Hide a field
 Set PvtFld = PvtTbl.PivotFields("Month Name")
     PvtFld.PivotItems("January").Visible = False
-    
+
+'Change the Layout & Style
 PvtTbl.RowAxisLayout xlTabularRow
 PvtTbl.TableStyle2 = "PivotStyleLight24"
 
-
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
