@@ -51,7 +51,7 @@ Python is a powerful program language that is easy to use and learn, many who wa
 
 * **[Python VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)** The Win32 library is a powerful library that allows for quick access into different Window objects. Unfortunately, documentation is hard to come by and when it is found it's hard to follow or difficult to apply it to your case. I wanted to make this easier for everyone by making tutorials and walking through the important steps to help grasp the fundamental concepts.
 
-* **[Python APIs](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-apis)** APIs are an easy and standardized way to access information across different companies. Let's explore how to use popular APIs to capture valuable pieces of data.
+* **[Python APIs](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api)** APIs are an easy and standardized way to access information across different companies. Let's explore how to use popular APIs to capture valuable pieces of data.
 
 ## Resources
 <table>
