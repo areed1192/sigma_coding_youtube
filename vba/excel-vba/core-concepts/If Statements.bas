@@ -1,4 +1,3 @@
-Attribute VB_Name = "IfStatements"
 Sub IfThen()
 
     'Declare a variable that will house the test score.
@@ -122,7 +121,6 @@ Sub IfStatementsWithLogicalOperators()
 
 End Sub
 
-
 Sub WrongIfStatement()
 
     'Declare a variable that will house the test score & Favorite Color.
@@ -142,7 +140,6 @@ Sub WrongIfStatement()
     End If
     
 End Sub
-
 
 Sub UsingProperties()
 
@@ -167,22 +164,3 @@ Sub UsingProperties()
     End If
     
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
