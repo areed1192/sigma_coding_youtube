@@ -59,14 +59,17 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 		<td>Excel VBA</td>
 		<td>This is the link to the Excel Object model documentation.</td>
 	</tr>
+	
 	<tr>
 		<td>PowerPoint VBA</td>
 		<td>This is the link to the PowerPoint Object model documentation.</td>
 	</tr>
+	
 	<tr>
 		<td>Outlook VBA</td>
 		<td>This is the link to the Outlook Object model documentation.</td>
 	</tr>
+	
 	<tr>
 		<td>Word VBA</td>
 		<td>This is the link to the Word Object model documentation.</td>
