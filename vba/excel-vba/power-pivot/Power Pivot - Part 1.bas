@@ -1,4 +1,3 @@
-Attribute VB_Name = "PowerPivotSettled"
 Sub ReferencePPM()
 Dim myModel As Model
 
@@ -9,8 +8,6 @@ Set myModel = ActiveWorkbook.Model
     Debug.Print myModel.DataModelConnection
 
 End Sub
-
-
 
 Sub AddAConnection()
 
@@ -32,7 +29,6 @@ Workbooks("PowerPivot.xlsm").Connections.Add2 _
                                         ImportRelationships:=False
 
 End Sub
-
 
 Sub AddMeasureToPowerPivot()
 
@@ -66,7 +62,6 @@ Set myModelMeasures = myModel.ModelMeasures
                         Description:="This is count of all my transactions."
 
 End Sub
-
 
 Sub AddNewConnection()
 
@@ -111,7 +106,3 @@ For Each ModelRelt In ModelRelts
 Next
 
 End Sub
-
-
-
-
