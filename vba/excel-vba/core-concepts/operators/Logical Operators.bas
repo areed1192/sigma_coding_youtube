@@ -49,16 +49,5 @@ Sub Logical_Operators()
    Else
       MsgBox ("IMP Operator Result is : False")
    End If
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+     
 End Sub
