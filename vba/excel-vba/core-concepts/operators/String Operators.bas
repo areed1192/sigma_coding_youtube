@@ -1,4 +1,3 @@
-Attribute VB_Name = "StringOperators"
 Sub StringOperators()
 
     'Comments are preceded by the "'" symbol
@@ -19,11 +18,8 @@ Sub StringOperators()
                    "my name is " & _
                    "Alex"
                    
-    MsgBox MultiLineStr
-    
-    
-
-    
+    MsgBox MultiLineStr 
+       
     'Lets see if we can condense this for loop into a single line.
     For i = 1 To 10
     
