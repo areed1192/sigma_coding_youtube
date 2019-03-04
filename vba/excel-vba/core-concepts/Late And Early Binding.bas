@@ -1,6 +1,3 @@
-Attribute VB_Name = "Module1"
-Option Explicit
-
 Sub EarlyBinding()
 
     'Early Binding has several advantages.
@@ -67,24 +64,3 @@ Sub LateBinding()
     PPTSlide.Shapes.PasteSpecial DataType:=10
     
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
