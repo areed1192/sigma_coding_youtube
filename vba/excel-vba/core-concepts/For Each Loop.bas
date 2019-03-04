@@ -1,5 +1,3 @@
-Attribute VB_Name = "ForEachLoop"
-
 'For Each element In Group
 '   [statement 1]
 '   [statement 2]
@@ -9,7 +7,6 @@ Attribute VB_Name = "ForEachLoop"
 '   [statement 11]
 '   [statement 22]
 'Next
-
 
 Sub ForEachLoop()
     
@@ -21,7 +18,6 @@ Sub ForEachLoop()
     Next WrkSht
     
 End Sub
-
 
 Sub ForEachLoopExit()
     
@@ -58,7 +54,6 @@ Sub ForEachLoopSimple()
     Next
     
 End Sub
-
 
 Sub NestedForEachLoop()
     
