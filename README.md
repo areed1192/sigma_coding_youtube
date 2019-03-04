@@ -45,37 +45,34 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
+<div class="paragraph"><p><br><br></p></div>
 <table>
 <thead>
-	<tr>
-	<th>Object Library</th>
-	<th>Description</th>
-	</tr>
+<tr>
+<th>Object Library</th>
+<th>Description</th>
+</tr>
 </thead>
 <tbody>
-	<tr>
-	<td>Excel VBA</td>
-	<td>This is the <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/excel" title="objectmodelexcel">link</a> to the Excel Object model documentation </td>
-	</tr>	
-	<tr>
-	<td>PowerPoint VBA</td>
-	<td>This is the link to the PowerPoint Object model documentation.</td>
-	</tr>	
-	<tr>
-	<td>Outlook VBA</td>
-	<td>This is the link to the Outlook Object model documentation.</td>
-	</tr>	
-	<tr>
-	<td>Word VBA</td>
-	<td>This is the link to the Word Object model documentation.</td>
-	</tr>
+<tr>
+<td>Excel VBA</td>
+<td>This is the <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/excel">link</a> to the Excel Object model documentation </td>
+</tr>	
+<tr>
+<td>PowerPoint VBA</td>
+<td>This is the <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/powerpoint">link</a> to the PowerPoint Object model documentation.</td>
+</tr>	
+<tr>
+<td>Outlook VBA</td>
+<td>This is the <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/outlook">link</a> to the Outlook Object model documentation.</td>
+</tr>	
+<tr>
+<td>Word VBA</td>
+<td>This is the <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/word">link</a> to the Word Object model documentation.</td>
+</tr>
 </tbody>
 </table>
-<div class="paragraph"><p><br>
-<br></p></div> 
+<div class="paragraph"><p><br><br></p></div> 
 
 ## Python Tutorials
 
