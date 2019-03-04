@@ -151,7 +151,7 @@ Range("A1").Interior.Pattern = xlPatternCrissCross
 'xlPatternLightUp (Light diagonal lines running from the lower left to the upper right.)
 'xlPatternLightVertical (Light vertical bars.)
 'xlPatternNone (No pattern.)
-'xlPatternSemiGray75 (75% dark moiré.)
+'xlPatternSemiGray75 (75% dark moirÃ©.)
 'xlPatternSolid (Solid color.)
 'xlPatternUp (Dark diagonal lines running from the lower left to the upper right.)
 
