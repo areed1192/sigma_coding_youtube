@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module2"
-Sub ChartToOutlook_Multi()
+Sub RangeToOutlook_Single()
 
     'Declare Outlook Variables
     Dim oLookApp As Outlook.Application
@@ -74,7 +74,7 @@ Sub ChartToOutlook_Multi()
 End Sub
 
 
-Sub ChartToOutlook_Single()
+Sub RangeToOutlook_Multi()
 
     'Declare Outlook Variables
     Dim oLookApp As Outlook.Application
@@ -144,9 +144,7 @@ Sub ChartToOutlook_Single()
             oWrdRng.PasteSpecial DataType:=wdPasteMetafilePicture
         
      Next
-
     
-    End With
-        
+    End With        
         
 End Sub
