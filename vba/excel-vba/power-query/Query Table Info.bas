@@ -1,4 +1,3 @@
-Attribute VB_Name = "QueryTableInfo"
 Option Explicit
 
 Sub GetInfoAboutMyQueryTable()
