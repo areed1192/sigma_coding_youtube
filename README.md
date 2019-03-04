@@ -47,7 +47,7 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 <div class="paragraph"><p><br><br></p></div>
 <table>
-<thead>
+<thead text-align="left">
 <tr>
 <th>Object Library</th>
 <th>Description</th>
