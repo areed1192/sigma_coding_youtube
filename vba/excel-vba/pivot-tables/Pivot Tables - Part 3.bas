@@ -1,6 +1,3 @@
-Attribute VB_Name = "Tutorial"
-Option Explicit
-
 Sub PivotTablePart3()
 
 'Declare Variables
@@ -12,12 +9,11 @@ Dim PvtFld As PivotField
 Set PvtTbl = ActiveSheet.PivotTables("MyNewPivotTable")
 
 'Loop through each field in our collection
-'For Each PvtFld In PvtTbl.VisibleFields
-'    Debug.Print PvtFld.Name
-'    Debug.Print PvtFld.Value
-'    Debug.Print PvtFld.DataType
-'Next
-
+For Each PvtFld In PvtTbl.VisibleFields
+    Debug.Print PvtFld.Name
+    Debug.Print PvtFld.Value
+    Debug.Print PvtFld.DataType
+Next
 
 'Create a reference to a single pivot field
 Set PvtFld = PvtTbl.PivotFields("Year")
@@ -26,7 +22,7 @@ Set PvtFld = PvtTbl.PivotFields("Year")
     PvtFld.DragToHide = False
    
 'Get the detail for the cell
-'ActiveCell.ShowDetail = True
+ActiveCell.ShowDetail = True
 
 'Declare more variables
 Dim PvtAxs As PivotAxis
@@ -38,11 +34,11 @@ Set PvtAxs = PvtTbl.PivotRowAxis
 Set PvtLns = PvtAxs.PivotLines
 
 'Loop through each line
-'For Each PvtLin In PvtLns
-'    Debug.Print PvtLin.Position
-'    Debug.Print PvtLin.LineType
-'    Debug.Print PvtLin.Application
-'Next
+For Each PvtLin In PvtLns
+    Debug.Print PvtLin.Position
+    Debug.Print PvtLin.LineType
+    Debug.Print PvtLin.Application
+Next
 
 'xlPivotLineBlank        3   Blank line after each group.
 'xlPivotLineGrandTotal   2   Grand Total line.
@@ -56,14 +52,13 @@ Dim PvtCell As PivotCell
 Set PvtLin = PvtLns.Item(3)
 
 'Loop through each Pivot cell in our line
-'For Each PvtCell In PvtLin.PivotLineCellsFull
-'    Debug.Print PvtCell.Range
-'    Debug.Print PvtCell.PivotTable
-'    Debug.Print PvtCell.PivotCellType
-'    Debug.Print PvtCell.PivotItem
-'    Debug.Print PvtCell.PivotField
-'Next
-
+For Each PvtCell In PvtLin.PivotLineCellsFull
+    Debug.Print PvtCell.Range
+    Debug.Print PvtCell.PivotTable
+    Debug.Print PvtCell.PivotCellType
+    Debug.Print PvtCell.PivotItem
+    Debug.Print PvtCell.PivotField
+Next
 
 'xlPivotCellBlankCell        9   A structural blank cell in the PivotTable.
 'xlPivotCellCustomSubtotal   7   A cell in the row or column area that is a custom subtotal.
@@ -81,11 +76,4 @@ Debug.Print PvtTbl.PivotValueCell(3, 1).Value
 
 PvtTbl.PivotValueCell(3, 1).ShowDetail
 
-
 End Sub
-
-
-
-
-
-
