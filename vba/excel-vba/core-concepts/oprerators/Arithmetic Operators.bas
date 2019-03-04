@@ -1,4 +1,3 @@
-Attribute VB_Name = "ArithmeticOperators"
 Sub Operators()
 
     Dim IntOne As Integer
@@ -25,4 +24,3 @@ Sub Operators()
     IntOne = 8 Mod 3 'Divides two numbers and returns the remainder in this case 2.
 
 End Sub
-
