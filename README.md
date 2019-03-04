@@ -51,14 +51,14 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 <table>
 <thead>
 	<tr>
-	<th>Link</th>
+	<th>Object Library</th>
 	<th>Description</th>
 	</tr>
 </thead>
 <tbody>
 	<tr>
 	<td>Excel VBA</td>
-	<td>This is the link to the Excel Object model documentation.</td>
+	<td>This is the [link](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) to the Excel Object model documentation </td>
 	</tr>	
 	<tr>
 	<td>PowerPoint VBA</td>
