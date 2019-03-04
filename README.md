@@ -45,14 +45,16 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
 
-<table text-align="center">
-<thead>
+
+
+<table align="center">
+<thead align="center">
 	<tr>
 		<th>Link</th>
 		<th>Description</th>
 	</tr>
 </thead>
-<tbody>
+<tbody align="center">
 	<tr>
 		<td>Excel VBA</td>
 		<td>This is the link to the Excel Object model documentation.</td>
@@ -71,6 +73,7 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 	</tr>
 </tbody>
 </table>
+
 
 ## Python Tutorials
 
