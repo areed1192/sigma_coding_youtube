@@ -1,8 +1,3 @@
-Attribute VB_Name = "Practice"
-Option Explicit
-
-Sub Macro2()
-Attribute Macro2.VB_ProcData.VB_Invoke_Func = " \n14"
 Sub CreatePivotTable()
 
 'Declare Variables
@@ -67,7 +62,6 @@ PvtTbl.RowAxisLayout xlTabularRow
 'Change the color
 PvtTbl.TableStyle2 = "PivotStyleLight24"
 
-
 'Create a calculate field
 PvtTbl.CalculatedFields.Add "Average Selling Price", "=Gross Sales / Units Sold"
 
@@ -120,41 +114,3 @@ PvtTbl.PivotFields("Month Name").PivotFilters.Add2 Type:=xlTopCount, DataField:=
 PvtTbl.PivotFields("Month Name").PivotFilters.Add2 Type:=xlCaptionContains, Value1:="Feb"
 
 End Sub
-
-
-''For Each pvtField In PvtTbl.DataFields
-''    MsgBox pvtField.Name
-''Next pvtField
-''
-''For Each pvtField In PvtTbl.ColumnFields
-''    MsgBox pvtField.Name
-''Next pvtField
-''
-''For Each pvtField In PvtTbl.RowFields
-''    MsgBox pvtField.Name
-''Next pvtField
-'
-''For Each vlc In PvtTbl.PivotTableChangeList
-''MsgBox vlc
-''Next vlc
-''
-''For Each pvt In ActiveSheet.PivotTables
-''pvt.PivotCache.MissingItemsLimit = xlMissingItemsNone
-''pvt.PivotCache.Refresh
-''Next PV
-'
-''Set Rng = pvt.DataBodyRange
-''Rng.Cells(Rng.Rows.Count, Rng.Columns.Count).ShowDetail = True
-''Next pvt
-'
-''MsgBox PvtTbl.PivotValueCell(10, 1).Value
-'
-'Dim PvtLin As PivotLine
-'Dim PvtAxs As PivotAxis
-'
-'Set PvtAxs = PvtTbl.PivotRowAxis
-'Set PvtLin = PvtAxs.PivotLines.Item(6)
-'    MsgBox PvtLin.LineType
-'End Sub
-
-
