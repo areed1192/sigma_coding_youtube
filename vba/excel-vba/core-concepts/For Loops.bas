@@ -1,5 +1,3 @@
-Attribute VB_Name = "ForLoop"
-
 'BASIC SYNTAX
 'For counter = start To end [Step increment]
 '   {...statements...}
@@ -80,19 +78,3 @@ For i = 1 To 20
 Next i
 
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
