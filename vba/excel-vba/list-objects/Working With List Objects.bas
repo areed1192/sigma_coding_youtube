@@ -1,28 +1,3 @@
-Attribute VB_Name = "ListObjects"
-Sub Macro3()
-
-    Range("A1:C5").Select
-    Application.CutCopyMode = False
-    ActiveSheet.ListObjects.Add(xlSrcRange, Range("$A$1:$C$5"), , xlYes).Name = _
-        "Table1"
-    Range("Table1[#All]").Select
-    ActiveSheet.ListObjects("Table1").TableStyle = "TableStyleMedium3"
-    Range("Table1").Select
-    Selection.Copy
-    Range("G2").Select
-    ActiveSheet.Paste
-    Range("Table1[#Headers]").Select
-    Application.CutCopyMode = False
-    Selection.Copy
-    Range("G10").Select
-    ActiveSheet.Paste
-    Range("Table1[Name]").Select
-    Application.CutCopyMode = False
-    Selection.Copy
-    Range("G12").Select
-    ActiveSheet.Paste
-End Sub
-
 Sub CreateListObject()
 
     Dim ListObj As ListObject
@@ -73,46 +48,6 @@ Sub CreateListObject()
 
 
 End Sub
-Sub Macro4()
-'
-' Macro4 Macro
-'
-
-'
-    Application.CutCopyMode = False
-    Range("F4").Select
-    Application.CutCopyMode = False
-    Application.CommandBars("Queries and Connections").Visible = False
-    Application.CutCopyMode = False
-    With ActiveSheet.ListObjects.Add(SourceType:=0, Source:= _
-        "OLEDB;Provider=Microsoft.Office.List.OLEDB.2.0;", Destination:=Range("$F$4") _
-        ).QueryTable
-        .CommandType = 5
-        .CommandText = Array( _
-        "<LIST><VIEWGUID>{5D8F3E3B-2425-4CCB-953C-22E82242EC05}</VIEWGUID><LISTNAME>{6DC036F2-05F3-4EB9-A732-43E1C6827682}</" _
-        , _
-        "LISTNAME><LISTWEB>https://petco.sharepoint.com/sites/AnalyticsCommunity/_vti_bin</LISTWEB><LISTSUBWEB></LISTSUBWEB>" _
-        , _
-        "<ROOTFOLDER>/sites/AnalyticsCommunity/Lists/Platforms%5fMaster</ROOTFOLDER></LIST>" _
-        )
-        .RowNumbers = False
-        .FillAdjacentFormulas = False
-        .PreserveFormatting = True
-        .RefreshOnFileOpen = False
-        .BackgroundQuery = False
-        .RefreshStyle = xlInsertDeleteCells
-        .SavePassword = False
-        .SaveData = True
-        .AdjustColumnWidth = True
-        .RefreshPeriod = 0
-        .PreserveColumnInfo = True
-        .SourceConnectionFile = _
-        "C:\Users\305197\OneDrive - Petco Animal Supplies\query.iqy"
-        .ListObject.DisplayName = "Table_query"
-        .Refresh BackgroundQuery:=False
-    End With
-End Sub
-
 
 Sub CreateTableFromSharePointList()
     
@@ -155,9 +90,7 @@ Sub CreateTableFromSharePointList()
                                             LinkSource:=xlYes, _
                                             Destination:=Range("$A$21"), _
                                             TableStyleName:="TableStyleLight1")
-   
-   
- 
+  
   
 End Sub
 
