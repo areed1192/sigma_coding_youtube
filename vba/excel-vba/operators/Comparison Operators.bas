@@ -1,4 +1,3 @@
-Attribute VB_Name = "ComparisonOperators"
 Sub ComparisonOperators()
 
 'Comparison operators compare two expressions and return a Boolean value that represents the relationship of their values. _
@@ -43,15 +42,3 @@ Sub TypeProperty()
     End If
     
 End Sub
-
-
-
-
-
-
-
-
-
-
-
-
