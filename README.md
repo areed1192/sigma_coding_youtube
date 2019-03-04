@@ -44,3 +44,12 @@ VBA is the go to tool to help automate Office applications and take reptitive ta
 * **[Word VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/word-vba)** Explore how to manipulate and modify Word documents using VBA. Word documents are great for documenting a wide arrange of information, make VBA your friend and see how to format these documents uing VBA.
 
 * **[PowerPoint VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/vba/powerpoint-vba)** PowerPoint is the go to presentation creator for any company, but help save time by exploring how to control links, shapes and other PowerPoint objects at your disposal.
+
+## Python Tutorial
+
+Python is a powerful program language that is easy to use and learn, many who want to learn programming start with Python. In my tutorials, I am currently focusing on how to use Python the VBA object model. This opens up a whole host of new capabilities that we can now take advantage of.
+
+* **[Python VBA](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)** The Win32 library is a powerful library that allows for quick access into different Window objects. Unfortunately, documentation is hard to come by and when it is found it's hard to follow or difficult to apply it to your case. I wanted to make this easier for everyone by making tutorials and walking through the important steps to help grasp the fundamental concepts.
+
+* **[Python APIs](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-apis)** APIs are an easy and standardized way to access information across different companies. Let's explore how to use popular APIs to capture valuable pieces of data.
+
