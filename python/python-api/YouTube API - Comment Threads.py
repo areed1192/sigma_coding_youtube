@@ -31,6 +31,7 @@ response = requests.get(url = final_url,
 # Decode the response
 encoded_response = response.json()
 pprint.pprint(encoded_response)
+
 # Get the text from a comment
 for item in encoded_response['items']:
     print(item['snippet']['topLevelComment']['snippet']['textDisplay'])
