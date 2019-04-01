@@ -1,6 +1,6 @@
 ## Python Playlist - Using Win32Com
 
-If you're interested in learning about the Win32 COM library in Python. I encourage you to visit this playlist [![Video One](http://img.youtube.com/vi/Jd2PtDV5mL0/0.jpg)](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
+If you're interested in learning about the Win32 COM library in Python. I encourage you to visit this playlist [![ExcelVBAPython@72x-100](https://user-images.githubusercontent.com/21281964/55301969-fd19de00-53f3-11e9-9117-f57a50382a78.png)](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
 
 ## Python Playlist - Machine Learning
 
