@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import win32com.client
 
 # create a new instance of excel
@@ -48,4 +42,3 @@ for key, value in RangeDict.items():
     
 # save the presentation.
 PPTPresentation.SaveAs(r"C:\Users\Alex\Desktop\ExcelToPowerPoint.pptx")
-
