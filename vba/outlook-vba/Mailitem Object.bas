@@ -1,4 +1,3 @@
-Attribute VB_Name = "UsingMailItemPractice"
 Sub DisplayMail()
 
 'Declare our Variables
