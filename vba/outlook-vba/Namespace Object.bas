@@ -1,4 +1,3 @@
-Attribute VB_Name = "UsingNamespaceTutorial"
 Option Explicit
 
 Sub WorkNamespace()
