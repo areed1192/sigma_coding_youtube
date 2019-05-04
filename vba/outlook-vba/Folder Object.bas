@@ -1,4 +1,3 @@
-Attribute VB_Name = "UsingMailFolders"
 Sub DisplayMail()
 
 'Declare our Variables
