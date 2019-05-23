@@ -247,3 +247,91 @@ content = requests.get(url = endpoint, headers = headers)
 
 # convert it dictionary object
 data = content.json()
+
+# grab the account id
+account_id = data[0]['securitiesAccount']['accountId']
+
+
+
+# SAVED ORDERS ENDPOINT - POST
+
+# define our headers
+header = {'Authorization':"Bearer {}".format(access_token),
+          "Content-Type":"application/json"}
+
+# define the endpoint for Saved orders, including your account ID
+endpoint = r"https://api.tdameritrade.com/v1/accounts/{}/savedorders".format(account_id)
+
+# define the payload, in JSON format
+payload = {'orderType':'MARKET',
+           'session':'NORMAL',
+           'duration':'DAY',
+           'orderStrategyType':'SINGLE',
+           'orderLegCollection':[{'instruction':'Buy','quantity':1,'instrument':{'symbol':'PINS','assetType':'EQUITY'}}]}
+
+
+# make a post, NOTE WE'VE CHANGED DATA TO JSON AND ARE USING POST
+content = requests.post(url = endpoint, json = payload, headers = header)
+
+# show the status code, we want 200
+content.status_code
+
+
+
+# SAVED ORDERS ENDPOINT - GET ALL
+
+# define our headers
+header = {'Authorization':"Bearer {}".format(access_token)}
+
+# define the endpoint for Saved orders, including your account ID
+endpoint = r"https://api.tdameritrade.com/v1/accounts/{}/savedorders".format(account_id)
+
+# make a post, NOTE WE ARE USING GET
+content = requests.get(url = endpoint, headers = header)
+
+# show the status code, we want 200
+content.status_code
+
+# parse the data sent back to us
+data = content.json()
+
+# grab the order ID
+order_id = data[0]['savedOrderId']
+
+
+
+# SAVED ORDERS ENDPOINT - GET SINGLE
+
+# define our headers
+header = {'Authorization':"Bearer {}".format(access_token)}
+
+# define the endpoint for Saved orders, including your account ID
+endpoint = r"https://api.tdameritrade.com/v1/accounts/{}/savedorders/{}".format(account_id, order_id)
+
+# make a post, NOTE WE ARE USING GET
+content = requests.get(url = endpoint, headers = header)
+
+# show the status code, we want 200
+content.status_code
+
+# parse the json string
+data = content.json()
+
+# grab the order ID
+order_id = data['savedOrderId']
+
+
+
+# SAVED ORDERS ENDPOINT - DELETE
+
+# define our headers
+header = {'Authorization':"Bearer {}".format(access_token)}
+
+# define the endpoint for Saved orders, including your account ID
+endpoint = r"https://api.tdameritrade.com/v1/accounts/{}/savedorders/{}".format(account_id, order_id)
+
+# make a post, NOTE WE ARE USING DELETE NOW
+content = requests.delete(url = endpoint, headers = header)
+
+# show the status code, we want 200
+content.status_code
