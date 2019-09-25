@@ -1,3 +1,8 @@
+'Microsoft Doc CommandBar: https://docs.microsoft.com/en-us/office/vba/api/office.commandbar 
+'Microsoft Doc CommandBars: https://docs.microsoft.com/en-us/office/vba/api/office.commandbars 
+'Microsoft Doc CommandBarControl: https://docs.microsoft.com/en-us/office/vba/api/office.commandbarcontrol
+'Microsoft Doc CommandBarControls: https://docs.microsoft.com/en-us/office/vba/api/office.commandbarcontrols
+
 Sub ExploringControls()
 
 'Define Command Bar Object Variables
