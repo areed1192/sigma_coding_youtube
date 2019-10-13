@@ -11,10 +11,6 @@
 		<a href="https://www.youtube.com/channel/UCBsTB02yO0QGwtlfiv5m25Q">YouTube</a>
 		•
 		<a href="https://www.facebook.com/codingsigma/">Facebook</a>
-		•
-		<a href="https://www.instagram.com/sigma_coding/">Instagram</a>
-    •
-		<a href="https://www.sigma-coding.com/">Website</a>
 	</strong>
 </p>
 
