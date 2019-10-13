@@ -1,11 +1,9 @@
 <h1 align="center">
-	<img
-		width="500"
-		src="https://user-images.githubusercontent.com/21281964/53066899-ae893380-3486-11e9-937f-7b7540569a66.jpg">
+	Sigma Coding
 </h1>
 
 <h3 align="center">
-	Coding tutorials made easy.
+	Tutorials & Resources
 </h3>
 
 <p align="center">
