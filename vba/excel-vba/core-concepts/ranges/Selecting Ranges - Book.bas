@@ -24,7 +24,7 @@ Sub SelectingRanges_ObjectHierarchy()
     Worksheets("Sheet1").Range("A2").Select '<<< This is how it looks in VBA's eyes Application.ActiveWorkbook.Worksheets("Sheet1").Range("B1").Select
     
     'Forget the worksheet
-    'Range("A2").Select   '<<< This is how it looks in VBA's eyes Application.ActiveWorkbook.ActiveWorksheet.Range("B1").Select
+    'Range("A2").Select   '<<< This is how it looks in VBA's eyes Application.ActiveWorkbook.ActiveWorksheet.Range("A2").Select
     
     
     'If you use the Select method to select cells, be aware that Select works only on the active worksheet.
