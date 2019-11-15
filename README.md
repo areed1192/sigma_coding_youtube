@@ -21,10 +21,10 @@
 *   [Overview](#overview)
 *   [Topics](#topics)
 *   [Resources](#resources)
-*   [Support the Channel](#support-the-channel)
 *   [Link to Other Repositories](#link-to-other-repositories)
+*   [Support the Channel](#support-the-channel)
 
-### Overview
+## Overview
 
 Howdy! My name is [Alex](https://www.linkedin.com/in/alex-reed/), and if you're like me, you enjoy the world of programming. Or maybe you were like me a few years ago and are beginning to take your first step into this exciting world. The GitHub repository you're currently contains almost all of the code you find on my YouTube channel Sigma Coding. Feel free to clone, download or branch this repository so you can leverage the code I share in my channel.
 
@@ -38,7 +38,7 @@ Because I cover so many different langages on my YouTube channel, I dedicate a f
 
 This list is continuously changing, and I do my best to make tutorials engaging, exciting, and most importantly, easy to follow!
 
-### Topics
+## Topics
 
 Now, I cover a lot of topics on my channel and as much I would like to list them all I don't want to overload with you a bunch of information. Here is a list of some of my more popular topics:
 
@@ -59,18 +59,18 @@ Now, I cover a lot of topics on my channel and as much I would like to list them
 * **TSQL:**
 	* **APIs** Learn how to make API request from Microsoft SQL Server.
 
-### Resources
+## Resources
 
 If you ever have a question, would like to suggest a topic, found a mistake or just want some input for a project you can always email me at **coding.sigma@gmail.com**. Additionally, you can find dedicated folders in the repository for resources like documentation.
 
-### Links To Other Respositories
+## Links To Other Respositories
 
 Some of my projects are so large that they have dedicated repositories for them. Here is a list of repositiories of my other repositiories:
 
 * [TD Ameritrade API Client For Python](https://github.com/areed1192/td-ameritrade-python-api)
 * Excel Object Model For Python - COMING SOON
 
-### Support these Projects
+## Support these Projects
 
 **Patreon:**
 If you like what you see! Then Help support the channel and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding). I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
