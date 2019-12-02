@@ -13,6 +13,8 @@
 		<a href="https://www.facebook.com/codingsigma">Facebook</a>
 		•
 		<a href="https://www.patreon.com/sigmacoding">Patreon</a>
+		•
+		<a href="https://github.com/sponsors/areed1192">GitHub Sponsor</a>
 	</strong>
 </p>
 
