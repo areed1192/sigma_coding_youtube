@@ -169,7 +169,6 @@ for _interface in interfaces:
             # Only show methods that can be called by the user. (IsSpecialName is False)
             if interface_member.IsSpecialName == False:
 
-                
                 # Grab the name of the method.
                 method_name = interface_member.Name
 
@@ -191,11 +190,9 @@ for _interface in interfaces:
 
                 # Determine if there are any paramaters to parse
                 if method_parameters is not None:
-
                     
                     # If there is then loop through them.
                     for parameter in method_parameters:
-
 
                         # Grab the parameter name.
                         parameter_name = parameter.Name
@@ -212,14 +209,12 @@ for _interface in interfaces:
                         # Grab the DefaultValue flag.
                         parameter_has_default_value = parameter.HasDefaultValue
 
-
                         print('\t\tPARAMETER:')
                         print('\t\t' + "-"*20)
                         print("\t\tParameter: Name={}, Type={}".format(parameter_name, parameter_type))
                         print("\t\tParameter: Name={}, IsOptional={}".format(parameter_name, is_parameter_optional))
                         print("\t\tParameter: Name={}, Position={}".format(parameter_name, parameter_position))
                         print("\t\tParameter: Name={}, HasDefaultValue={}".format(parameter_name, parameter_has_default_value))
-
 
                         # If it does...
                         if parameter_has_default_value == True:
@@ -258,7 +253,6 @@ for _interface in interfaces:
             else:
 
                 set_method = 'No Set Method'
-
             
             if interface_member.GetMethod:
 
@@ -340,7 +334,6 @@ for _interface in interfaces:
 
             # What is the Event Handler Type
             event_handler_type = interface_member.EventHandlerType
-
 
             # Display for the User.
             print('\tEVENT:')
