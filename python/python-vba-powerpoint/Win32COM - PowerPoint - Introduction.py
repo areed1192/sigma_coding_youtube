@@ -38,7 +38,6 @@ for key, value in RangeDict.items():
     
     # paste the range in the slide as a linked OLEObject
     PPTSlide.Shapes.PasteSpecial(DataType = 10, Link = True) # 10 in a OLEObject.
-
     
 # save the presentation.
 PPTPresentation.SaveAs(r"C:\Users\Alex\Desktop\ExcelToPowerPoint.pptx")
