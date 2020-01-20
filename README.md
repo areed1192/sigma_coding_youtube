@@ -20,11 +20,11 @@
 
 #### Table of Contents
 
-*   [Overview](#overview)
-*   [Topics](#topics)
-*   [Resources](#resources)
-*   [Link to Other Repositories](#link-to-other-repositories)
-*   [Support the Channel](#support-the-channel)
+* [Overview](#overview)
+* [Topics](#topics)
+* [Resources](#resources)
+* [Link to Other Repositories](#link-to-other-repositories)
+* [Support the Channel](#support-the-channel)
 
 ## Overview
 
@@ -45,21 +45,21 @@ This list is continuously changing, and I do my best to make tutorials engaging,
 Now, I cover a lot of topics on my channel and as much I would like to list them all I don't want to overload with you a bunch of information. Here is a list of some of my more popular topics:
 
 * **Python:**
-	* **Win32COM** The Win32COM library allows us to control the VBA object model from Python.
-	* **TD Ameritrade API** The TD Ameritrade API allows us to stream real-time quote data and execute trades from Python.
-	* **Machine Learning** I cover different machine learning models ranging from regression to classification.
+  * **Win32COM** The Win32COM library allows us to control the VBA object model from Python.
+  * **TD Ameritrade API** The TD Ameritrade API allows us to stream real-time quote data and execute trades from Python.
+  * **Machine Learning** I cover different machine learning models ranging from regression to classification.
 
 * **VBA:**
-	* **PowerPoint VBA** This series covers interacting with PowerPoint objects using VBA, topics like linking OLE objects and formatting slides.
-	* **Word VBA** With Word VBA, we see how to manipulate different documents and change the underlying format in them.
-	* **Outlook VBA** In Outlook, we work with email objects and account information.
-	* **Excel VBA** In Excel, we do an awful lot even working with non-standard libraries like ADODB.
+  * **PowerPoint VBA** This series covers interacting with PowerPoint objects using VBA, topics like linking OLE objects and formatting slides.
+  * **Word VBA** With Word VBA, we see how to manipulate different documents and change the underlying format in them.
+  * **Outlook VBA** In Outlook, we work with email objects and account information.
+  * **Excel VBA** In Excel, we do an awful lot even working with non-standard libraries like ADODB.
 
 * **JavaScript:**
-	* **Office API** Learn how to use the new JavaScript API for Microsoft Office.
+  * **Office API** Learn how to use the new JavaScript API for Microsoft Office.
 
 * **TSQL:**
-	* **APIs** Learn how to make API request from Microsoft SQL Server.
+  * **APIs** Learn how to make API request from Microsoft SQL Server.
 
 ## Resources
 
