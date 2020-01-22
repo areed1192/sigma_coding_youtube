@@ -34,7 +34,7 @@ Sub RangeToOutlook_Single()
     
           
     'Create an array to hold ranges
-    ExcRng = Sheet1.Range("B2:C7")
+    Set ExcRng = Sheet1.Range("B2:C7")
 
     With oLookItm
     
