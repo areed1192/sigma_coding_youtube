@@ -1,21 +1,31 @@
 <h1 align="center">
-	Sigma Coding
+Sigma Coding
 </h1>
 
 <h3 align="center">
-	Tutorials & Resources
+Tutorials & Resources
 </h3>
 
 <p align="center">
-	<strong>
-		<a href="https://www.youtube.com/c/SigmaCoding">YouTube</a>
-		•
-		<a href="https://www.facebook.com/codingsigma">Facebook</a>
-		•
-		<a href="https://www.patreon.com/sigmacoding">Patreon</a>
-		•
-		<a href="https://github.com/sponsors/areed1192">GitHub Sponsor</a>
-	</strong>
+<strong>
+<a href="https://www.youtube.com/c/SigmaCoding">YouTube</a>
+•
+<a href="https://www.facebook.com/codingsigma">Facebook</a>
+</strong>
+</p>
+
+<h3 align="center">
+Support Sigma Coding
+</h3>
+
+<p align="center">
+<strong>
+<a href="https://www.patreon.com/sigmacoding">Patreon</a>
+•
+<a href="https://github.com/sponsors/areed1192">GitHub Sponsor</a>
+•
+<a href="https://www.amazon.com/gp/search?ie=UTF8&tag=areed1192-20&linkCode=ur2&linkId=5b4d939974e7c2b59d0d4125ce716d0d&camp=1789&creative=9325&index=books&keywords=Finance Programming">Shop Amazon</a>
+</strong>
 </p>
 
 #### Table of Contents
@@ -23,7 +33,7 @@
 * [Overview](#overview)
 * [Topics](#topics)
 * [Resources](#resources)
-* [Link to Other Repositories](#link-to-other-repositories)
+* [Link to Other Repositories](#links-to-other-respositories)
 * [Support the Channel](#support-the-channel)
 
 ## Overview
@@ -72,10 +82,13 @@ Some of my projects are so large that they have dedicated repositories for them.
 * [TD Ameritrade API Client For Python](https://github.com/areed1192/td-ameritrade-python-api)
 * Excel Object Model For Python - COMING SOON
 
-## Support these Projects
+## Support the Channel
 
 **Patreon:**
 If you like what you see! Then Help support the channel and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding). I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
 
 **Hire Me:**
 If you have a project, and you think I can help you with feel free to reach out at coding.sigma@gmail.com
+
+**Disclosures:**
+I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Full Disclosure: I will earn a commission if you purchase from the Shop Amazon link, more details are provided below.
