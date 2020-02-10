@@ -80,6 +80,7 @@ If you ever have a question, would like to suggest a topic, found a mistake or j
 Some of my projects are so large that they have dedicated repositories for them. Here is a list of repositiories of my other repositiories:
 
 * [TD Ameritrade API Client For Python](https://github.com/areed1192/td-ameritrade-python-api)
+* [Interactive Brokers API Client For Python](https://github.com/areed1192/interactive-broker-python-api)
 * Excel Object Model For Python - COMING SOON
 
 ## Support the Channel
