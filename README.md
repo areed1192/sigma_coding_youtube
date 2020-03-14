@@ -97,10 +97,10 @@ Some of my projects are so large that they have dedicated repositories for them.
 ## Support the Channel
 
 **Patreon:**
-If you like what you see! Then Help support the channel and future projects by donating to my [Patreon Page](https://www.patreon.com/sigmacoding). I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
+If you like what you see! Then Help support the channel and future projects by donating to my **[Patreon Page](https://www.patreon.com/sigmacoding)**. I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
 
 **Hire Me:**
-If you have a project, and you think I can help you with feel free to reach out at [coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Source%20Sigma%20Coding%20Repo%20Hire%20Me)
+If you have a project, and you think I can help you with feel free to reach out at **[coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Source%20Sigma%20Coding%20Repo%20Hire%20Me)**
 
 **Disclosures:**
-I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Full Disclosure: I will earn a commission if you purchase from the Shop Amazon link, more details are provided below.
+I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to **Amazon.com**. Full Disclosure: I will earn a commission if you purchase from the Shop Amazon link, more details are provided below.
