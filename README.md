@@ -28,7 +28,7 @@ Support Sigma Coding
 </strong>
 </p>
 
-#### Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Topics](#topics)
@@ -90,9 +90,9 @@ Some of my projects are so large that they have dedicated repositories for them.
 
 - [TD Ameritrade API Client For Python](https://github.com/areed1192/td-ameritrade-python-api)
 - [Interactive Brokers API Client For Python](https://github.com/areed1192/interactive-broker-python-api)
+- [Office API Add-In](https://github.com/areed1192/excel-custom-function-add-in)
+- [Python SEC Library](https://github.com/areed1192/python-sec)
 - Excel Object Model For Python - COMING SOON
-- Office API Add-In - COMING SOON
-- Python SEC Library - COMING SOON
 
 ## Support the Channel
 
@@ -100,7 +100,7 @@ Some of my projects are so large that they have dedicated repositories for them.
 If you like what you see! Then Help support the channel and future projects by donating to my **[Patreon Page](https://www.patreon.com/sigmacoding)**. I'm always looking to add more content for individuals like yourself, unfortuantely some of the APIs I would require me to pay monthly fees.
 
 **Hire Me:**
-If you have a project, and you think I can help you with feel free to reach out at **[coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Source%20Sigma%20Coding%20Repo%20Hire%20Me)**
+If you have a project, you think I can help you with feel free to reach out at [coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Project%20Proposal) or fill out the [contract request form](https://forms.office.com/Pages/ResponsePage.aspx?id=ZwOBErInsUGliXx0Yo2VfcCSWZSwW25Es3vPV2veU0pUMUs5MUc2STkzSzVQMFNDVlI5NjJVNjREUi4u)
 
 **Disclosures:**
 I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to **Amazon.com**. Full Disclosure: I will earn a commission if you purchase from the Shop Amazon link, more details are provided below.
