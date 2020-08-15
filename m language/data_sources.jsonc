@@ -1,0 +1,117 @@
+{
+  "files": [
+    {
+      "formattedLastModifiedTime": "13-Mar-2020 07:41",
+      "name": "CFR",
+      "folder": true,
+      "displayLabel": "Code of Federal Regulations (Annual Edition)",
+      "link": "https://www.govinfo.gov/bulkdata/json/CFR",
+      "justFileName": "CFR"
+    },
+    {
+      "formattedLastModifiedTime": "24-Jul-2020 11:54",
+      "name": "FR",
+      "folder": true,
+      "displayLabel": "Federal Register",
+      "link": "https://www.govinfo.gov/bulkdata/json/FR",
+      "justFileName": "FR",
+      "fileExtension": "/FR"
+    },
+    {
+      "formattedLastModifiedTime": "04-Jan-2019 07:09",
+      "name": "BILLSTATUS",
+      "folder": true,
+      "displayLabel": "Bill Status",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSTATUS",
+      "justFileName": "BILLSTATUS"
+    },
+    {
+      "formattedLastModifiedTime": "19-Mar-2012 05:52",
+      "name": "CBD",
+      "folder": true,
+      "displayLabel": "Commerce Business Daily",
+      "link": "https://www.govinfo.gov/bulkdata/json/CBD",
+      "justFileName": "CBD"
+    },
+    {
+      "formattedLastModifiedTime": "19-Dec-2019 04:33",
+      "name": "PPP",
+      "folder": true,
+      "displayLabel": "Public Papers of the Presidents of the United States",
+      "link": "https://www.govinfo.gov/bulkdata/json/PPP",
+      "justFileName": "PPP"
+    },
+    {
+      "formattedLastModifiedTime": "19-Mar-2012 05:52",
+      "name": "SCD",
+      "folder": true,
+      "displayLabel": "Supreme Court Decisions 1937-1975 (FLITE)",
+      "link": "https://www.govinfo.gov/bulkdata/json/SCD",
+      "justFileName": "SCD"
+    },
+    {
+      "formattedLastModifiedTime": "04-Jun-2019 05:47",
+      "name": "BILLS",
+      "folder": true,
+      "displayLabel": "Congressional Bills",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLS",
+      "justFileName": "BILLS"
+    },
+    {
+      "formattedLastModifiedTime": "21-Nov-2019 03:57",
+      "name": "GOVMAN",
+      "folder": true,
+      "displayLabel": "United States Government Manual",
+      "link": "https://www.govinfo.gov/bulkdata/json/GOVMAN",
+      "justFileName": "GOVMAN"
+    },
+    {
+      "formattedLastModifiedTime": "05-Jan-2019 08:47",
+      "name": "BILLSUM",
+      "folder": true,
+      "displayLabel": "Bill Summaries",
+      "link": "https://www.govinfo.gov/bulkdata/json/BILLSUM",
+      "justFileName": "BILLSUM"
+    },
+    {
+      "formattedLastModifiedTime": "07-Apr-2020 05:35",
+      "name": "PAI",
+      "folder": true,
+      "displayLabel": "Privacy Act Issuances",
+      "link": "https://www.govinfo.gov/bulkdata/json/PAI",
+      "justFileName": "PAI"
+    },
+    {
+      "formattedLastModifiedTime": "19-Nov-2018 06:11",
+      "name": "ECFR",
+      "folder": true,
+      "displayLabel": "Electronic Code of Federal Regulations",
+      "link": "https://www.govinfo.gov/bulkdata/json/ECFR",
+      "justFileName": "ECFR"
+    },
+    {
+      "formattedLastModifiedTime": "17-Jan-2020 08:28",
+      "name": "HMAN",
+      "folder": true,
+      "displayLabel": "House Rules and Manual",
+      "link": "https://www.govinfo.gov/bulkdata/json/HMAN",
+      "justFileName": "HMAN"
+    },
+    {
+      "formattedLastModifiedTime": "10-Apr-2019 05:29",
+      "name": "PLAW",
+      "folder": true,
+      "displayLabel": "Public and Private Laws (xml uslm beta)",
+      "link": "https://www.govinfo.gov/bulkdata/json/PLAW",
+      "justFileName": "PLAW"
+    },
+    {
+      "formattedLastModifiedTime": "27-Jul-2020 05:42",
+      "name": "STATUTE",
+      "folder": true,
+      "displayLabel": "Statutes at Large (xml uslm beta)",
+      "link": "https://www.govinfo.gov/bulkdata/json/STATUTE",
+      "justFileName": "STATUTE"
+    }
+  ]
+}
