@@ -32,8 +32,8 @@ crsr.execute(query)
 one_row = crsr.fetchone()
 
 # accessing the individual columns
-display(one_row[0])
-display(one_row.CER)
+print(one_row[0])
+print(one_row.CER)
 
 # specify how many rows you want to fetch at a time, default is one
 crsr.fetchmany(5)
@@ -43,7 +43,7 @@ crsr.rowcount
 
 # This read/write attribute specifies the number of rows to fetch at a time with
 # fetchmany(). It defaults to 1 meaning to fetch a single row at a time.
-display(crsr.arraysize)
+print(crsr.arraysize)
 
 # I could change it, say to 10
 crsr.arraysize = 10

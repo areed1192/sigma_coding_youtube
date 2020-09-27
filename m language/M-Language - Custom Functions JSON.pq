@@ -49,7 +49,6 @@ in
     KeepSpecificColumns
 
 // Invoke it.
-
 let
 
     // Convert the data sources to a JSON string.
