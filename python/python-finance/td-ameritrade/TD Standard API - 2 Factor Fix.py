@@ -60,6 +60,10 @@ elif browser.is_text_present('What is your father\'s middle name?'):
 # Submit results
 browser.find_by_id('accept').first.click()
 
+#Trust this device
+browser.find_by_xpath('/html/body/form/main/fieldset/div/div[1]/label').first.click()
+browser.find_by_id('accept').first.click()
+
 # Sleep and click Accept Terms.
 time.sleep(1)
 browser.find_by_id('accept').first.click()
