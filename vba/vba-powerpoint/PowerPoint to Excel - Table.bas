@@ -1,12 +1,12 @@
 Sub ExportMultiplePowerPointTablesToExcel()
 
-'Declare our Variables
+'Declare Variables (PowerPoint).
 Dim PPTPres As Presentation
 Dim PPTSlide As Slide
 Dim PPTShape As Shape
 Dim PPTTable As Table
 
-'Declare Excel Variables.
+'Declare Variables (Excel).
 Dim xlApp As Excel.Application
 Dim xlBook As Excel.Workbook
 Dim xlWrkSheet As Excel.Worksheet
@@ -18,10 +18,10 @@ Set PPTPres = Application.ActivePresentation
     'Keep going if there is an error
     On Error Resume Next
     
-    'Get the Active instance of Outlook if there is one
+    'Try to grab the Active Instance of Excel if it's open.
     Set xlApp = GetObject(, "Excel.Application")
     
-        'If Outlook isn't open then create a new instance of Outlook
+        'If Excel isn't open then we get a `429` error.
         If Err.Number = 429 Then
         
             'Clear Error
